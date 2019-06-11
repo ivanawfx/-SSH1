@@ -5,5 +5,3 @@ c=5
 print "a is",a 
 print "b is ",b
 print "sum is",a+b
-print a-b
-print c+a
